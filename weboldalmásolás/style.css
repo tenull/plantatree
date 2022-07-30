@@ -1,0 +1,58 @@
+nav {
+    background-color: blueviolet;
+}
+
+.d-block {
+    color: white
+}
+
+.row {
+    margin: 20px;    
+    margin-bottom: 20px;
+    
+}
+
+.logo {
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+.leftmenu {
+    color: black;
+    border-left: solid;
+    border-width: 1px;
+    border-color: grey;
+}
+
+.form-inline {
+    color: white;
+}
+
+
+h1 {
+    font-family: "Liberation Mono","Courier New",monospace;
+}
+
+#second {
+    color: white;
+}
+#third {
+    color: black;
+    border-right: solid;
+    border-width: 1px;
+    border-color: grey;
+}
+#fourth {
+    color: black;
+}
+
+#fifth {
+    color: white;
+}
+.seventh {
+    border: solid;
+    padding: 10px;
+    border-width: 1px;
+    border-color: grey;
+    border-top: none;
+}

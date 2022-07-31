@@ -1,5 +1,5 @@
 nav {
-    background-color: blueviolet;
+    background-color: #563d7c;
 }
 
 .d-block {
@@ -55,4 +55,7 @@ h1 {
     border-width: 1px;
     border-color: grey;
     border-top: none;
+}
+h2 {
+    margin-top: 250px;
 }
